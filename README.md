@@ -1,16 +1,25 @@
-### Hi there 👋
+<div align = "center">
+  
+# Olá, Sou Vitor Willian
 
-<!--
-**V-Maxxin/V-Maxxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cheguei finalmente aos duelistas do github, onde o código é a nossa mágica e nossos computadores são nossas cartas de duelo. Eu sou um jovem duelista de programação, pronto para entrar no GitHub para aprimorar minhas habilidades e desafiar outros programadores para um duelo de código.
 
-Here are some ideas to get you started:
+#### Assim como um duelista iniciante, eu tenho muito a aprender, mas estou sempre disposto a enfrentar novos desafios. Estou ansioso para explorar o GitHub e encontrar novas cartas de código que possam me ajudar a vencer meus oponentes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Com a ajuda de outros duelistas experientes, estou confiante de que posso melhorar minhas habilidades de programação e eventualmente me tornar um Mestre dos Códigos. Vamos duelar, programadores!
+ 
+ </div>
+  
+<div align = "justify">
+  
+- Iniciei meu caminho de lógica com o portugol, agora estou me encaminhando para novos desafios
+- Sou estudante do Serratec de 2023, buscando meu caminho em meio a códigos e variavéis
+- Confiança pra alcançar além das linhas da goiaba
+
+<br>
+<div align = "center">
+  <a href="https://github.com/V-Maxxin">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=V-Maxxin&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+ </div> <div align = "center">
+  <img height="183.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Maxxin&layout=compact&langs_count=168&theme=synthwave"/>
+</div>
