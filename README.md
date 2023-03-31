@@ -8,11 +8,11 @@
 
 #### Com a ajuda de outros duelistas experientes, estou confiante de que posso melhorar minhas habilidades de programação e eventualmente me tornar um Mestre dos Códigos. Vamos duelar, programadores!
  
-Iniciei meu caminho de lógica com o portugol, agora estou me encaminhando para novos desafios
+Iniciei meu caminho de lógica com o portugol, agora estou me encaminhando para novos desafios.
 <br>
-Sou estudante do Serratec de 2023, buscando meu caminho em meio a códigos e variavéis
+Sou estudante do Curso Residência em TIC do Serratec, buscando meu caminho em meio a códigos e variavéis.
 <br>
-Confiança pra alcançar além das linhas da goiaba
+Confiança pra alcançar além das linhas da goiaba.
 <br>
  </div>
 <br>
