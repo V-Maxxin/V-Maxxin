@@ -20,5 +20,5 @@ Confiança pra alcançar além das linhas da goiaba.
   <a href="https://github.com/V-Maxxin">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=V-Maxxin&show_icons=false&theme=graywhite&include_all_commits=true&count_private=true"/>
  </div> <div align = "center">
-  <img height="176.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&langs_count=168&theme=graywhite"/>
+  <img height="176.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Maxxin&layout=compact&langs_count=168&theme=graywhite"/>
 </div>
